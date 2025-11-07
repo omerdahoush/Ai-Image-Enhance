@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Enhancer",
+  "description": "A web application to enhance the quality of old and damaged photos, adjust lighting and contrast using the Gemini API.",
+  "requestFramePermissions": []
+}
